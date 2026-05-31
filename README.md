@@ -2,7 +2,6 @@
 Financial Crime Transformation | AML | Python | Analytics | Network Intelligence
 
 [LinkedIn](https://www.linkedin.com/in/dan-hartwig-financial-crime) |
-[Portfolio](https://dhartwig-fc.github.io) |
 [GitHub](https://github.com/dhartwig-fc)
 
 ## About
@@ -20,13 +19,14 @@ This portfolio demonstrates practical prototypes and strategic concepts explorin
 - Network Analytics & Entity Resolution
 - Trade Finance (TBML) Analytics
 - Capital Markets & Correspondent Banking Analytics
-- Python
+- AI Use Case Design
+- AI Governance & Controls
+- Python (Foundation)
 - Pandas
 - Streamlit
 - GitHub
 - Jupyter Notebooks
-- AI Use Case Design
-- AI Governance & Controls
+
 
 ## Financial Crime Portfolio Focus
 
