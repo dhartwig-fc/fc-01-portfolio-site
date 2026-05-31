@@ -11,7 +11,7 @@ Financial Crime professional with experience across Financial Crime Transformati
 
 This portfolio demonstrates practical prototypes and strategic concepts exploring how Artificial Intelligence, Network Analytics and Automation can transform Financial Crime Operations.All examples are learning and demonstration projects built to explore Financial Crime analytics, workflow optimisation and Python development concepts.
 
-## Technical Skills
+## Domain & Technical Skills
 
 - Financial Crime Transformation
 - AML Operations
@@ -19,7 +19,7 @@ This portfolio demonstrates practical prototypes and strategic concepts explorin
 - Sanctions domain knowledge
 - Network Analytics & Entity Resolution
 - Trade Finance (TBML) Analytics
-- Correspondent Banking Analytics
+- Capital Markets & Correspondent Banking Analytics
 - Python
 - Pandas
 - Streamlit
