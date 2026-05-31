@@ -1,4 +1,5 @@
 # Dan Hartwig
+Financial Crime Transformation | AML | Python | Analytics | Network Intelligence
 
 [LinkedIn](https://www.linkedin.com/in/dan-hartwig-financial-crime) |
 [Portfolio](https://dhartwig-fc.github.io) |
