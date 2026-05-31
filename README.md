@@ -82,3 +82,9 @@ https://github.com/dhartwig-fc/fc-ai-investigator-copilot
 - AI Governance Framework for AML Operations
 
 ---
+
+Disclaimer
+
+This portfolio contains personal learning projects, prototype concepts and
+transformation artefacts developed for demonstration and educational purposes.
+It does not contain proprietary information, customer data or production code.
