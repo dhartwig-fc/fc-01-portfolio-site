@@ -1,9 +1,8 @@
 # Dan Hartwig
-LinkedIn: https://www.linkedin.com/in/dan-hartwig-financial-crime
 
-Portfolio: https://dhartwig-fc.github.io
-
-GitHub: https://github.com/dhartwig-fc
+[LinkedIn](https://www.linkedin.com/in/dan-hartwig-financial-crime) |
+[Portfolio](https://dhartwig-fc.github.io) |
+[GitHub](https://github.com/dhartwig-fc)
 
 ## About
 
@@ -45,14 +44,11 @@ Key focus areas include:
 
 ---
 
-## Featured Projects
-
 ### Financial Crime Toolkit
 
 Strategy, governance, architecture, analytics and transformation roadmap for AI-enabled Financial Crime Operations.
 
-Repository:
-https://github.com/dhartwig-fc/financial-crime-ai-toolkit
+Repository: [Financial Crime Toolkit](https://github.com/dhartwig-fc/financial-crime-ai-toolkit)
 
 ---
 
@@ -60,8 +56,7 @@ https://github.com/dhartwig-fc/financial-crime-ai-toolkit
 
 Risk scoring, alert prioritisation and investigator workflow support.
 
-Repository:
-https://github.com/dhartwig-fc/aml-alert-triage-prototype
+Repository: [AML Alert Triage Prototype](https://github.com/dhartwig-fc/aml-alert-triage-prototype)
 
 ---
 
@@ -69,8 +64,8 @@ https://github.com/dhartwig-fc/aml-alert-triage-prototype
 
 Prototype demonstrating alert enrichment, investigator guidance and case narrative support for Financial Crime investigations.
 
-Repository:
-https://github.com/dhartwig-fc/fc-ai-investigator-copilot
+Repository: [AI Investigator Copilot](https://github.com/dhartwig-fc/fc-ai-investigator-copilot)
+
 
 ## Current Development Roadmap
 
