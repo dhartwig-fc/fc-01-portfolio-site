@@ -2,7 +2,7 @@
 
 ## Financial Crime Transformation Portfolio
 
-### Intelligence-Led Capability Design | Network Intelligence | Advanced Analytics | Artificial Intelligence
+### | Financial Crime Transformation | Network Intelligence | Advanced Analytics | AI
 
 ---
 
