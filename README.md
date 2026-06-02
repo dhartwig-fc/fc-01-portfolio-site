@@ -1,293 +1,144 @@
 # Dan Hartwig
 
-**Financial Crime Transformation | Intelligence-Led Capability Design | Network Intelligence | Analytics | AI**
+## Financial Crime Transformation Portfolio
 
-[LinkedIn](https://www.linkedin.com/in/dan-hartwig-financial-crime) | [GitHub](https://github.com/dhartwig-fc)
-
----
-
-# About
-
-I am a Financial Crime Transformation professional specialising in the design and development of intelligence-led Financial Crime capabilities across AML, Sanctions, Trade Finance, Correspondent Banking, Network Intelligence and Artificial Intelligence.
-
-My experience spans Financial Crime Operations, Transaction Monitoring, Sanctions Screening, Detection Strategy, Analytics, Network Intelligence and Transformation programmes.
-
-This portfolio demonstrates how intelligence, detection strategy, analytics, investigations, AI and governance can be connected into a coherent Financial Crime capability architecture.
-
-Rather than presenting isolated technologies or analytical solutions, the repositories collectively demonstrate how emerging threats can be translated into operational detection capabilities, investigation workflows and transformation outcomes.
+### Intelligence-Led Capability Design | Network Intelligence | Advanced Analytics | Artificial Intelligence
 
 ---
 
-# Financial Crime Capability Architecture
+# 🌐 Repository Portfolio
 
-```text
-External Intelligence
-        ↓
-Threat Assessment
-        ↓
-Detection Strategy
-        ↓
-Analytics
-        ↓
-Network Intelligence
-        ↓
-Investigation
-        ↓
-AI Enablement
-        ↓
-Governance
-        ↓
-Transformation
-```
+## 👉 [View Repository Portfolio](https://github.com/dhartwig-fc)
 
-The architecture reflects how modern Financial Crime programmes evolve from external intelligence and emerging threats through to operational controls, investigations, AI enablement and enterprise transformation.
+**Explore the complete Financial Crime repository portfolio including analytics frameworks, network intelligence methodologies, AI-enabled operating models and transformation assets.**
 
-## Domain & Technical Skills
+Repositories include:
 
-- Financial Crime Transformation
-- AML Operations
-- Transaction Monitoring
-- Sanctions domain knowledge
-- Network Intelligence & Graph Analytics & Entity Resolution (Quantexa)
-- Trade Finance (TBML) Analytics
-- Capital Markets & Correspondent Banking Analytics
-- AI Use Case Design
-- AI Governance & Controls
-- Python (Foundation)
-- Pandas
-- Streamlit
-- GitHub
-- Jupyter Notebooks
+- Financial Crime Analytics Showcase
+- Financial Crime Transformation Toolkit
+- Emerging Threat Intelligence
+- AI Investigator Copilot
+- AML Alert Triage Prototype
 
 ---
 
-# Capability Domains
+[LinkedIn](https://www.linkedin.com/in/dan-hartwig-financial-crime) | [GitHub Profile](https://github.com/dhartwig-fc)
 
-## Threat Intelligence
+---
 
-- Horizon Scanning
-- Emerging Threat Assessment
-- Geopolitical Intelligence
-- Regulatory Intelligence
-- Sanctions Intelligence
-- Threat Prioritisation
+# Executive Profile
 
-## Detection Strategy
+I am a Financial Crime Transformation professional specialising in intelligence-led capability design across AML, Sanctions, Trade Finance, Correspondent Banking, Network Intelligence and Artificial Intelligence.
 
-- Scenario Engineering
-- Risk Indicator Design
-- Control Coverage Assessment
-- Threat-to-Detection Mapping
-- Detection Prioritisation
+My experience spans Financial Crime Operations, Transaction Monitoring, Detection Strategy, Analytics, Network Intelligence, Operating Model Design and Enterprise Transformation programmes.
 
-## Analytics
+This portfolio demonstrates how intelligence, analytics, network intelligence, AI and governance can be integrated into modern Financial Crime operating models.
 
-- Transaction Monitoring
-- Trade Finance Analytics
-- Correspondent Banking Analytics
-- Capital Markets Surveillance
-- Risk Scoring Frameworks
+Rather than presenting isolated technologies or analytical solutions, the portfolio demonstrates how emerging threats can be translated into operational detection capabilities, investigative workflows and measurable transformation outcomes.
 
-## Network Intelligence
+---
+
+# Core Capability Areas
+
+| Domain | Focus Areas |
+|----------|----------|
+| 🧠 Threat Intelligence | Horizon Scanning, Threat Assessment, Geopolitical Intelligence, Emerging Typologies |
+| 🎯 Detection Strategy | Threat-to-Detection Mapping, Scenario Engineering, Coverage Assessment |
+| 📊 Analytics | Transaction Monitoring, Trade Finance Analytics, Correspondent Banking Analytics, Risk Scoring |
+| 🕸️ Network Intelligence | Entity Resolution, Relationship Discovery, Beneficial Ownership, Graph Analytics |
+| 🤖 Artificial Intelligence | Investigator Copilots, Alert Summarisation, SAR Assistance, AI Governance |
+| 🏛️ Governance | Explainability, Controls, Model Oversight |
+| 🚀 Transformation | Operating Models, Business Cases, Roadmaps, Executive Strategy |
+
+---
+
+# Featured Work
+
+## 🧠 Emerging Threat Intelligence
+
+Developing horizon scanning, threat assessment and future capability frameworks supporting intelligence-led Financial Crime transformation.
+
+### Focus Areas
+
+- Artificial Intelligence Abuse
+- Agentic AI
+- Digital Assets
+- Synthetic Identities
+- Trade-Based Sanctions Evasion
+- Geopolitical Risk Corridors
+- Shadow Fleet Networks
+- Professional Mule Networks
+
+---
+
+## 🕸️ Network Intelligence
+
+Designing network intelligence frameworks supporting entity resolution, beneficial ownership analysis, relationship discovery and graph-based investigations.
+
+### Focus Areas
 
 - Entity Resolution
-- Beneficial Ownership Analysis
 - Relationship Discovery
-- Network Risk Scoring
-- Graph Analytics
 - Connected Party Analysis
+- Beneficial Ownership Mapping
+- Network Risk Scoring
+- Graph Investigation Patterns
 
-## Investigation
+---
 
-- Alert Triage
-- Case Management
-- Network Investigations
-- Sanctions Investigations
-- SAR Development
+## 📊 Financial Crime Analytics
 
-## Artificial Intelligence
+Development of analytics frameworks covering AML, Trade Finance, Correspondent Banking and Risk Scoring use cases.
 
-- Investigator Copilots
+### Focus Areas
+
+- Transaction Monitoring
+- TBML Analytics
+- Risk Scoring
+- Trade Intelligence
+- Correspondent Banking Analytics
+- Capital Markets Analytics
+
+---
+
+## 🤖 Artificial Intelligence
+
+Applying AI to investigation workflows, alert triage, case summarisation and investigator productivity.
+
+### Focus Areas
+
+- AI Investigator Copilots
 - Alert Summarisation
 - Case Documentation Support
 - SAR Narrative Generation
 - Investigation Guidance
 
-## Governance
-
-- AI Governance
-- Explainability Controls
-- Model Risk Management
-- Human-in-the-Loop Controls
-- Auditability Frameworks
-
-## Transformation
-
-- Target Operating Models
-- Business Cases
-- Transformation Roadmaps
-- Executive Communication
-- Capability Architecture
-
 ---
 
-# Repository Portfolio
+# Portfolio Navigation
 
-## FC-02 Financial Crime Transformation Toolkit
-
-Strategy, governance, architecture and operating model assets supporting intelligence-led Financial Crime transformation.
-
-### Focus Areas
-
-- Target Operating Models
-- AI Governance
-- Business Cases
-- Transformation Roadmaps
-- Executive Board Materials
-- Capability Architecture
-
-Repository:
-
-<https://github.com/dhartwig-fc/fc-02-transformation-toolkit>
-
----
-
-## FC-03 Financial Crime Network Intelligence Library
-
-Network Intelligence patterns supporting entity resolution, relationship discovery, graph analytics and beneficial ownership investigations.
-
-### Focus Areas
-
-- Entity Resolution
-- Relationship Discovery
-- Beneficial Ownership Analytics
-- Graph Investigation Patterns
-- Network Risk Scoring
-
-Repository:
-
-<https://github.com/dhartwig-fc/fc-03-network-intelligence-library>
-
----
-
-## FC-04 Trade Finance & TBML Analytics Toolkit
-
-Trade Finance analytics supporting TBML detection, trade risk scoring and trade intelligence development.
-
-### Focus Areas
-
-- TBML Typologies
-- Trade Risk Scoring
-- Commodity Risk Analytics
-- Corridor Risk Analytics
-- Behavioural Risk Analytics
-
-Repository:
-
-<https://github.com/dhartwig-fc/fc-04-tbml-analytics-toolkit>
-
----
-
-## FC-07 Emerging Threat Intelligence Library
-
-Intelligence-led repository supporting horizon scanning, threat assessment and future capability development.
-
-### Focus Areas
-
-- Threat Intelligence
-- Threat Prioritisation
-- Emerging Typologies
-- Geopolitical Intelligence
-- Sanctions Intelligence
-- Threat-to-Analytics Mapping
-- Threat-to-AI Mapping
-
-Repository:
-
-<https://github.com/dhartwig-fc/fc-07-emerging-threat-intelligence>
-
----
-
-## FC-08 Detection Strategy Library (Planned)
-
-Framework translating intelligence outputs into monitoring scenarios, controls, analytics and future detection opportunities.
-
-### Focus Areas
-
-- Detection Strategy
-- Scenario Engineering
-- Coverage Assessment
-- Threat-to-Detection Mapping
-- Control Effectiveness
-
-Status:
-
-**Planned Repository**
-
----
-
-## FC-PROT01 AML Alert Triage Prototype
-
-Alert scoring and prioritisation prototype supporting investigator workflow optimisation.
-
-Repository:
-
-<https://github.com/dhartwig-fc/fc-prot01-aml-alert-triage>
-
----
-
-## FC-PROT02 AI Investigator Copilot
-
-AI-enabled investigator support prototype demonstrating alert enrichment, investigation guidance and case documentation support.
-
-Repository:
-
-<https://github.com/dhartwig-fc/fc-prot02-ai-investigator-copilot>
-
----
-
-# Portfolio Roadmap
-
-| Status | Initiative |
-|----------|----------|
-| ✅ Complete | Portfolio Website |
-| ✅ Complete | Transformation Toolkit |
-| ✅ Complete | AML Alert Triage Prototype |
-| ✅ Complete | AI Investigator Copilot |
-| 🚧 Active Development | Network Intelligence Library |
-| 🚧 Active Development | Emerging Threat Intelligence Library |
-| 🚧 Active Development | TBML Analytics Toolkit |
-| 📋 Planned | Detection Strategy Library |
-| 📋 Planned | Correspondent Banking Analytics Toolkit |
-| 📋 Planned | Capital Markets Surveillance Toolkit |
-| 🚧 Active Development | Sanctions Analytics Toolkit |
-| 📋 Planned | AI Governance Framework |
+| Repository | Purpose |
+|------------|----------|
+| Financial Crime Analytics Showcase | Visual showcase of analytics frameworks, typologies, network intelligence methodologies and AI-enabled operating models |
+| Financial Crime Transformation Toolkit | Transformation, governance, architecture and delivery framework |
+| Emerging Threat Intelligence | Horizon scanning and intelligence-led capability development |
+| AI Investigator Copilot | AI-enabled investigation support prototype |
+| AML Alert Triage Prototype | Risk scoring and alert prioritisation prototype |
 
 ---
 
 # Strategic Vision
 
-Most Financial Crime programmes remain organised around individual functions such as Transaction Monitoring, Sanctions Screening, Analytics, Investigations and Transformation.
+Modern Financial Crime programmes can no longer operate as isolated functions.
 
-This portfolio explores how those functions can be connected through an intelligence-led capability architecture that links:
+The future operating model is intelligence-led, analytics-enabled and AI-assisted.
 
-- Intelligence
-- Detection Strategy
-- Analytics
-- Network Intelligence
-- Investigations
-- Artificial Intelligence
-- Governance
-- Transformation
-
-The objective is to demonstrate how Financial Crime organisations can move beyond siloed operating models towards integrated, intelligence-led capabilities that improve risk identification, detection effectiveness, investigative outcomes and strategic decision making.
+This portfolio explores how intelligence, detection strategy, analytics, network intelligence, investigations, governance and transformation can be connected into a coherent Financial Crime capability architecture.
 
 ---
 
 # Disclaimer
 
-This portfolio contains educational, conceptual and demonstration materials intended to illustrate Financial Crime capability design, analytics concepts, network intelligence methodologies and AI-enabled operating models.
+This portfolio contains educational, conceptual and demonstration materials intended to illustrate Financial Crime transformation, analytics, network intelligence methodologies and AI-enabled operating models.
 
-It does not contain production systems, proprietary methodologies, client data or confidential information.
-
-Selected materials may be expanded over time as additional repositories, frameworks and prototypes are developed.
+It does not contain client information, proprietary methodologies, production systems or confidential data.
