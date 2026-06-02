@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/financial-crime-analytics.png" width="320">
+  <img src="images/financial-crime-analytics.png" width="450">
 </p>
 
 <h1 align="center">Dan Hartwig</h1>
