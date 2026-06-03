@@ -57,7 +57,7 @@ The objective is to transform emerging financial crime threats into operational 
 
 <p align="center">
   <a href="images/financial-crime-intelligence-platform.png">
-    <img src="images/financial-crime-intelligence-platform.png" width="1250">
+    <img src="images/financial-crime-intelligence-platform.png" width="1750">
   </a>
 </p>
 
