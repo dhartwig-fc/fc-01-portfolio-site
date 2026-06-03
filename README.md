@@ -30,7 +30,7 @@
   </a>
 </p>
 
-# 🌍 Repository Portfolio 
+# 🌍 Repository Portfolio
 
 ## 👉 [Explore Repository Portfolio](https://github.com/dhartwig-fc)
 
@@ -46,6 +46,40 @@ Explore the complete Financial Crime repository portfolio including analytics fr
 | Analytics Coverage | AML, TBML, Banking, Sanctions, Capital Markets |
 | AI Capabilities | Investigator Copilot, Alert Triage, SAR Assistance |
 | Transformation Focus | Strategy, Governance, Operating Models, Delivery |
+
+---
+
+# 🏗️ Financial Crime Intelligence Platform
+
+The repositories within this portfolio are aligned to a Financial Crime Intelligence Platform framework that connects emerging threat intelligence, analytics, network intelligence, investigations, governance and transformation into a single operating model.
+
+The objective is to transform emerging financial crime threats into operational capabilities that deliver measurable risk reduction, regulatory compliance and investigative effectiveness.
+
+<p align="center">
+  <img src="images/financial-crime-intelligence-platform.png" width="900">
+</p>
+
+### Platform Principles
+
+| Objective | Description |
+|------------|------------|
+| 🛡️ Protect the Institution | Identify and mitigate financial crime risk through intelligence-led capabilities |
+| ⚖️ Meet Regulatory Obligations | Support AML, Sanctions, Fraud and Compliance requirements |
+| 📈 Drive Risk Intelligence | Convert data into actionable intelligence and risk insights |
+| 🔍 Detect Financial Crime | Enable effective detection, investigation and disruption of criminal activity |
+
+### Capability Areas
+
+| Capability | Coverage |
+|------------|------------|
+| 🧠 Threat Intelligence | Horizon Scanning, Threat Assessment, Emerging Typologies |
+| 🕸️ Network Intelligence | Entity Resolution, Beneficial Ownership, Relationship Discovery |
+| 📊 Analytics | Transaction Monitoring, TBML, Banking Analytics, Risk Scoring |
+| 🤖 Artificial Intelligence | Investigator Copilots, Alert Summarisation, SAR Assistance |
+| 🏛️ Governance | Explainability, Controls, Oversight and Risk Management |
+| 🚀 Transformation | Operating Models, Roadmaps, Architecture and Delivery |
+
+This framework serves as the architectural foundation for the repositories, methodologies and analytics assets contained within this portfolio.
 
 ---
 
@@ -181,4 +215,3 @@ https://github.com/dhartwig-fc
 ---
 
 © 2026 Dan Hartwig | Financial Crime Transformation Portfolio
-`
